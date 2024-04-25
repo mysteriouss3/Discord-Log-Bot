@@ -1,6 +1,3 @@
-# Discord-Log-Bot
-Basic Düzeyde Role Ses Ve Mesaj Logu Tutar.
-
 # Discord Botu - Ses ve Mesaj Loglama
 
 Bu Discord botu, belirli bir sunucuda ses ve mesajları loglamak için tasarlanmıştır. Bot, belirli olayları izler ve loglama kanalına ilgili bilgileri gönderir.
