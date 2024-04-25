@@ -51,6 +51,9 @@ Bu Discord botu, belirli bir sunucuda ses ve mesajları loglamak için tasarlanm
 
 ![image](https://github.com/mysteriouss3/Discord-Log-Bot/assets/142053394/2d35b3f6-9962-41e0-aeee-83b5aedda55d)
 
+![image](https://github.com/mysteriouss3/Discord-Log-Bot/assets/142053394/8873a146-f563-4bae-b157-c54c82902899)
+
+
 
 ## Lisans
 
